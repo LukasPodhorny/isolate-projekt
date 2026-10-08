@@ -1,4 +1,4 @@
-# Isolates demo (VMA - ukazkova aplikace)
+# Isolates demo (mvop - ukazkova aplikace)
 
 Tema: **Isolates** - obrazovka s animaci a pomalym vypoctem, porovnani
 vypoctu v UI vlakne a pres `Isolate.run`.
